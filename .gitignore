@@ -1,0 +1,20 @@
+# --- Python Virtual Environment ---
+titanic-env/
+venv/
+env/
+.venv/
+
+# --- Python Cache Files ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- IDE / Editor Settings ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
